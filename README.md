@@ -1,5 +1,4 @@
 <h2> Hi, I'm Hakim! 
-  <img src="" width="50">
 </h2>
 
 <img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazRrZ2Z1enprNzV4ODNmeGJxcGc0N2E4OHBjZDVjNGw5ZmM2b245ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GRanCKIU5KoXSnVloU/giphy.gif" width="200">
