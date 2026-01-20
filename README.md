@@ -1,16 +1,64 @@
-## Hi there 👋
+const hakim = {
+  name: "Hakim",
+  pronouns: ["he", "him"],
+  location: "Taiwan 🇹🇼",
 
-<!--
-**firdausalhakim107/firdausalhakim107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  roles: [
+    "5G ORAN Engineer",
+    "Industrial Automation Specialist",
+    "Network & Systems Engineer"
+  ],
 
-Here are some ideas to get you started:
+  coreSkills: {
+    telecom: [
+      "5G SA / NSA",
+      "ORAN (O-CU / O-DU / O-RU)",
+      "Network Slicing",
+      "PRB / TTI / QoS Analysis",
+      "Latency & Throughput Optimization"
+    ],
+    automation: [
+      "PLC / DCS (Siemens T3000)",
+      "Industrial Networking",
+      "System Integration"
+    ],
+    systems: [
+      "Linux",
+      "Networking (L2–L4)",
+      "Troubleshooting & Root Cause Analysis"
+    ]
+  },
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  languages: ["Bash", "Python", "SQL", "RhinoPython"],
+
+  tools: [
+    "Docker",
+    "Kubernetes",
+    "Oracle DB",
+    "Wireshark / Tshark",
+    "iperf3",
+    "Git"
+  ],
+
+  architecture: [
+    "Cloud-Native 5GC",
+    "Microservices",
+    "Containerized RAN",
+    "RBAC / Access Control"
+  ],
+
+  interests: [
+    "Parametric Jewelry Design",
+    "Photography",
+    "Nintendo Switch Emulation",
+    "High-Performance Systems",
+    "Motorsport & F1 Engineering"
+  ],
+
+  mindset: [
+    "Hands-on problem solver",
+    "Obsessed with reproducibility",
+    "Performance-driven",
+    "Learn by building & breaking"
+  ]
+};
