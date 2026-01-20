@@ -12,8 +12,9 @@
   </em>
 </p>
 
-[![Linkedin: hakim](https://img.shields.io/badge/-Hakim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mfirdausalhakim/?originalSubdomain=tw)]()
-[![GitHub Hakim](https://img.shields.io/github/followers/firdausalhakim107?label=follow&style=social)]()
+[![LinkedIn](https://img.shields.io/badge/-Hakim-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mfirdausalhakim/)
+[![GitHub followers](https://img.shields.io/github/followers/firdausalhakim107?label=Follow&style=social)](https://github.com/firdausalhakim107)
+
 
 ### 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazRrZ2Z1enprNzV4ODNmeGJxcGc0N2E4OHBjZDVjNGw5ZmM2b245ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xDxiuMWbibNfqhHMdd/giphy.gif" width="50"> 
