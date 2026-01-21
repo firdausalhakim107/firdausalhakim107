@@ -21,40 +21,50 @@
 What i usually do 
 
 ```javascript
-const hakim = {
-  pronouns: "he" | "him" | "mas",
-  location: "Taiwan",
+#!/usr/bin/env bash
 
-  roles: [
-    "5G ORAN Engineer",
-    "Industrial Automation Specialist",
-    "Network & Systems Engineer"
-  ],
+# Basic info
+hakim_pronouns=("he" "him" "mas")
+hakim_location="Taiwan"
 
-  code: ["Bash", "Python", "SQL"],
+# Roles
+hakim_roles=(
+  "5G ORAN Engineer"
+  "Industrial Automation Specialist"
+  "Network & Systems Engineer"
+)
 
-  telecom: [
-    "5G SA / NSA",
-    "ORAN (O-CU / O-DU / O-RU)",
-    "Network Slicing",
-    "PRB / TTI Analysis",
-    "Latency & Throughput Optimization"
-  ],
+# Programming / scripting languages
+hakim_code=(
+  "Bash"
+  "Python"
+  "SQL"
+)
 
-  tools: [
-    "Docker",
-    "Kubernetes",
-    "Oracle DB",
-    "Wireshark / Tshark",
-    "iperf3",
-    "Git"
-  ],
+# Telecom expertise
+hakim_telecom=(
+  "5G SA / NSA"
+  "ORAN (O-CU / O-DU / O-RU)"
+  "Network Slicing"
+  "PRB / TTI Analysis"
+  "Latency & Throughput Optimization"
+)
 
-  architecture: [
-    "Cloud-Native 5GC",
-    "Microservices",
-    "Containerized RAN",
-    "RBAC"
-  ]
-}
+# Tools
+hakim_tools=(
+  "Docker"
+  "Kubernetes"
+  "Oracle DB"
+  "Wireshark / Tshark"
+  "iperf3"
+  "Git"
+)
+
+# Architecture knowledge
+hakim_architecture=(
+  "Cloud-Native 5GC"
+  "Microservices"
+  "Containerized RAN"
+  "RBAC"
+)
 
